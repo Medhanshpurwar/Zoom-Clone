@@ -8,11 +8,11 @@ This project aims to replicate the functionality of the popular video conferenci
 
 ## Features
 
-- 🎥 Real-time video conferencing
-- 🔒 User authentication
-- 💬 Chat functionality
-- 🖥️ Screen sharing
-- 📼 Recording meetings
+-  Real-time video conferencing
+-  User authentication
+-  Chat functionality
+-  Screen sharing
+-  Recording meetings
 
 ## Technologies Used
 
@@ -24,18 +24,6 @@ This project aims to replicate the functionality of the popular video conferenci
 [![ShadcnUI](https://img.shields.io/badge/ShadcnUI-3498DB?style=for-the-badge&logo=material-ui&logoColor=white)](https://shadcnui.com/)
 [![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.io/)
 [![Stream](https://img.shields.io/badge/Stream-00BFFF?style=for-the-badge&logo=apache-rocketmq&logoColor=white)](https://stream.io/)
-
-## Acknowledgments
-
-Special thanks to [@adrianhajdin](https://github.com/adrianhajdin) for his invaluable contribution to building this project.
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository
-2. Install dependencies using `npm install`
-3. Run the development server using `npm run dev`
 
 ## Contribution
 
